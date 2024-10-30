@@ -1,0 +1,9 @@
+li.lastfm_item {
+	display: inline;
+}
+span.lastfm_meta {
+	display: block;
+}
+img.lastfm_image {
+	padding: 5px;
+}

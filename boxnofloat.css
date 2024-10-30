@@ -1,0 +1,12 @@
+ul.lastfm {
+	list-style: none;
+}
+span.lastfm_meta {
+	display: block;
+}
+img.lastfm_image {
+	background: #fff;
+	border: 1px solid #bbb;
+	padding: 5px;
+	margin: 5px;
+}

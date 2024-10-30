@@ -1,0 +1,18 @@
+ul.lastfm {
+	list-style: none;
+	overflow: auto;
+	width: 100%
+}
+li.lastfm_item {
+	dispay: block;
+	padding: 5px;
+}
+span.lastfm_meta {
+	float: left;
+	padding: 5px;
+}
+img.lastfm_image {
+	float: left;
+	clear: both;
+	margin: 5px;
+}
